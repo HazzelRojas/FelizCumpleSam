@@ -14,7 +14,7 @@ body {
   text-align: center;
   visibility: hidden;
   position: relative;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 .container div.six {
@@ -107,7 +107,6 @@ body {
 .idea-6 span,
 .wish-hbd span {
   display: inline-flex;
-  overflow-y: scroll;
 }
 
 .idea-6 span {
@@ -222,7 +221,6 @@ body {
   font-weight: lighter;
   font-size: 2rem;
   margin: 10px 0 0;
-  overflow-y: scroll;
 }
 
 .nine p {

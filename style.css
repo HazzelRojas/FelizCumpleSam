@@ -14,12 +14,13 @@ body {
   text-align: center;
   visibility: hidden;
   position: relative;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .container div.six {
-  top: 10vh;
+  top: 2vh;
   z-index: 1;
+ 
 }
 
 .container div.seven,
@@ -212,7 +213,7 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 2em;
   margin: 0;
   text-transform: uppercase;
 }

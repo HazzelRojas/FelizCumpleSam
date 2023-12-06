@@ -110,7 +110,7 @@ body {
 }
 
 .idea-6 span {
-  font-size: 15rem;
+  font-size: 10rem;
 }
 
 .six {
@@ -221,6 +221,7 @@ body {
   font-weight: lighter;
   font-size: 2rem;
   margin: 10px 0 0;
+  overflow-y: scroll;
 }
 
 .nine p {

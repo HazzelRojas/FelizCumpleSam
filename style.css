@@ -105,7 +105,8 @@ body {
 .idea-5 span,
 .idea-6 span,
 .wish-hbd span {
-  display: inline-block;
+  display: inline-flex;
+  overflow-y: scroll;
 }
 
 .idea-6 span {
